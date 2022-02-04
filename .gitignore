@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+cleaned-dataset-csv/
+data-parquet/
+netflix-dataset/
+*.html
